@@ -1,0 +1,44 @@
+21:44:44.036 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
+21:44:44.150 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+21:44:44.182 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Completed Execution of TC001_Registration**********
+21:44:54.201 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistration - Test failed
+21:44:54.202 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistration - Debug logs....
+21:46:36.410 [main] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+21:46:36.467 [main] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+21:46:36.965 [main] INFO  testCases.TC001_AccountRegistration - **********Clicked on Account Link**********
+21:46:36.966 [main] INFO  testCases.TC001_AccountRegistration - **********Provideng Customer Information**********
+21:46:40.025 [main] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
+21:46:40.059 [main] INFO  testCases.TC001_AccountRegistration - **********Completed Execution of TC001_Registration**********
+21:46:44.821 [main] INFO  testCases.TC002_Login - **********Starting Execution of TC002_Login**********
+21:46:46.079 [main] INFO  testCases.TC002_Login - **********Completed Execution of TC002_Login**********
+13:11:54.717 [main] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+13:11:54.778 [main] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+13:11:55.408 [main] INFO  testCases.TC001_AccountRegistration - **********Clicked on Account Link**********
+13:11:55.424 [main] INFO  testCases.TC001_AccountRegistration - **********Provideng Customer Information**********
+13:11:58.708 [main] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
+13:11:58.807 [main] INFO  testCases.TC001_AccountRegistration - **********Completed Execution of TC001_Registration**********
+13:12:03.505 [main] INFO  testCases.TC002_Login - **********Starting Execution of TC002_Login**********
+13:12:04.804 [main] INFO  testCases.TC002_Login - **********Completed Execution of TC002_Login**********
+13:14:04.436 [main] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+13:14:04.505 [main] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+13:14:04.958 [main] INFO  testCases.TC001_AccountRegistration - **********Clicked on Account Link**********
+13:14:04.958 [main] INFO  testCases.TC001_AccountRegistration - **********Provideng Customer Information**********
+13:14:07.910 [main] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
+13:14:07.963 [main] INFO  testCases.TC001_AccountRegistration - **********Completed Execution of TC001_Registration**********
+13:14:12.689 [main] INFO  testCases.TC002_Login - **********Starting Execution of TC002_Login**********
+13:14:13.923 [main] INFO  testCases.TC002_Login - **********Completed Execution of TC002_Login**********
+13:15:51.842 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+13:15:51.910 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+13:15:52.324 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Clicked on Account Link**********
+13:15:52.325 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Provideng Customer Information**********
+13:15:53.932 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+13:15:55.306 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
+13:15:55.369 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+13:15:55.382 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **********Completed Execution of TC001_Registration**********
+13:16:05.385 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistration - Test failed
+13:16:05.385 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistration - Debug logs....
+22:11:48.639 [main] INFO  testCases.TC001_AccountRegistration - **********Starting Execution of TC001_Registration**********
+22:11:48.695 [main] INFO  testCases.TC001_AccountRegistration - **********clicked on Account Link**********
+22:11:49.098 [main] INFO  testCases.TC001_AccountRegistration - **********Clicked on Account Link**********
+22:11:49.099 [main] INFO  testCases.TC001_AccountRegistration - **********Provideng Customer Information**********
+22:11:52.027 [main] INFO  testCases.TC001_AccountRegistration - **********Validating Expected Message**********
